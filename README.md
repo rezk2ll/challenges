@@ -1,3 +1,3 @@
-enigmagroup.org programming challenges
+programming challenges
 ======
 some programming write-ups
